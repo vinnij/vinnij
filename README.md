@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Vinni P.
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C8EBB&center=true&vCenter=true&width=435&lines=Game+Developer;Rust+Tool+Creator;Hosting+Solutions+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C8EBB&center=true&vCenter=true&width=435&lines=Game+Server+Developer;Rust+Tool+Creator;Hosting+Solutions+Developer" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
