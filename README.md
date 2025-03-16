@@ -1,11 +1,11 @@
 # 👋 Hello, I'm Vinni P.
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C8EBB&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Game+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2C8EBB&center=true&vCenter=true&width=435&lines=Game+Developer;Rust+Tool+Creator;Hosting+Solutions+Developer" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
-I'm a passionate developer who loves creating games and applications. I enjoy working on projects that challenge me and push the boundaries of what's possible.
+I'm a passionate developer focused on creating tools for the Rust gaming community and building robust hosting solutions. I enjoy working on projects that enhance the gaming experience and provide value to developers and players alike.
 
 ## 🛠️ Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -16,7 +16,7 @@ I'm a passionate developer who loves creating games and applications. I enjoy wo
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
-## �� Projects
+## 🎮 Projects
 - **Looty Editor** - The premier Rust loot table editing tool
 - **Synth Hosting** - Next-generation hosting platform
 - More exciting projects coming soon!
