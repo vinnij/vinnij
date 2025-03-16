@@ -32,6 +32,8 @@ I'm a passionate developer focused on creating tools for the Rust gaming communi
 
 ## 🤝 Connect With Me
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/vinnij)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/synthhosting)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vinnipalmisano@synthhosting.com)
 
 ## 🎯 Goals for 2025
 - Make Looty Editor the industry standard for Rust loot table editing
